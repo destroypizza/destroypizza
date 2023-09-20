@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @destroypizza
 - 👀 I’m interested in programming
 - 🌱 I am currently learning Python programming language
+- Also I start learning Javascript
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me by mail pizzadestroy@gmail.com
 
